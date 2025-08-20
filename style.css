@@ -34,3 +34,8 @@ body {
   padding: 15px;
   border-radius: 8px;
 }
+.produk img {
+  width: 50px;     
+  height: 50;     
+  border-radius: 8px;
+}
